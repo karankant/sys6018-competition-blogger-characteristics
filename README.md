@@ -3,6 +3,8 @@
 PLEASE CHECK THE FINAL MODEL FOLDER AND RUN 'blog_sklearn_SVM_CV.ipynb' FOR OUR GRADEABLE MODEL
 Please find our other models, including Naive Bayes and Lasso Regression models in the 'Other Models' folder
 
+Final parametric score of 4.32720
+
 #Blogger Competition- Roles
 
 #Karan: Work on feature selection and attempt non linear model
